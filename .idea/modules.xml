@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CameraXCompose.iml" filepath="$PROJECT_DIR$/.idea/modules/CameraXCompose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CameraXCompose.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CameraXCompose.app.iml" />
+    </modules>
+  </component>
+</project>
